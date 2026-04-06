@@ -1,4 +1,4 @@
-# Reprompter
+<img src="assets/reprompter-logo.png" alt="Reprompter" width="320" />
 
 A macOS menu bar utility that rewrites and refines your prompts using LLMs — instantly, from anywhere on your Mac.
 
