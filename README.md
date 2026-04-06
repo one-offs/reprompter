@@ -32,7 +32,7 @@ A macOS menu bar utility that rewrites and refines your prompts using LLMs — i
 ## Building from Source
 
 ```bash
-git clone https://github.com/karthikkumar/reprompter.git
+git clone https://github.com/one-offs/reprompter.git
 cd reprompter
 open reprompter.xcodeproj
 ```
