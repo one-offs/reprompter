@@ -53,6 +53,9 @@ fastlane/test_output
 # Code Injection
 iOSInjectionProject/
 
+# Claude Code
+.claude/
+
 # Sensitive / environment
 *.env
 .env.*
